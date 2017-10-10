@@ -1,1 +1,2 @@
-Version 3 - in progress
+Version 3 
+V3 release
